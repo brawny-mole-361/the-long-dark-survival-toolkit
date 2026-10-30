@@ -1,0 +1,22 @@
+{
+  "name": "the-long-dark-survival-toolkit",
+  "displayName": "The Long Dark Survival Toolkit",
+  "programType": "survival-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Resource records",
+    "Route planning",
+    "Session notes"
+  ],
+  "topics": [
+    "the-long-dark-survival-toolkit",
+    "the-long-dark-tools",
+    "the-long-dark-menu",
+    "the-long-dark-settings",
+    "the-long-dark-configs",
+    "the-long-dark-resource-records",
+    "the-long-dark-route-planning"
+  ]
+}
